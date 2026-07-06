@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Security (NEVER COMMIT THIS FILE)
+.env
+
+# Pytest
+.pytest_cache/
+reports/
+*.html
+
+# IDE
+.vscode/
+.idea/
